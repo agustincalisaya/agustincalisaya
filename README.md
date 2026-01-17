@@ -14,10 +14,10 @@ Focused on building clean, scalable applications and constantly improving my ski
 - Next.js • TypeScript
 
 **Database**
-- SQL • PostgreSQL
+- SQL • PostgreSQL • Docker
 
 **Tools**
-- Git • GitHub
+- Git • GitHub • Postman
 
 ---
 
@@ -29,7 +29,6 @@ Focused on building clean, scalable applications and constantly improving my ski
 ### Currently Learning
 - Backend best practices with **Spring Boot**
 - Full Stack workflows with **Next.js + TypeScript**
-- Database design and performance with **PostgreSQL + Docker**
 
 ---
 
