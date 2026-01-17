@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Cali
 
-<!--
-**agustincalisaya/agustincalisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Engineering Student** | **Full Stack Developer**  
+Focused on building clean, scalable applications and constantly improving my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+**Backend**
+- Java • Spring Boot
+
+**Frontend**
+- Next.js • TypeScript
+
+**Database**
+- SQL • PostgreSQL
+
+**Tools**
+- Git • GitHub
+
+---
+
+### 💼 Experience
+- **LSCL Software** — Software Developer
+
+---
+
+### 🌱 Currently Learning
+- Backend best practices with **Spring Boot**
+- Full Stack workflows with **Next.js + TypeScript**
+- Database design and performance with **PostgreSQL**
+
+---
+
+### 📫 Contact
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)
+- ✉️ Email: yourmail@example.com
