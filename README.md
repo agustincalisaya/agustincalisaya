@@ -26,13 +26,13 @@ Focused on building clean, scalable applications and constantly improving my ski
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Backend best practices with **Spring Boot**
 - Full Stack workflows with **Next.js + TypeScript**
-- Database design and performance with **PostgreSQL**
+- Database design and performance with **PostgreSQL + Docker**
 
 ---
 
-### 📫 Contact
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)
-- ✉️ Email: yourmail@example.com
+### Contact
+- 💼 LinkedIn: [Daniel Calisaya](www.linkedin.com/in/daniel-calisaya)
+- ✉️ Email: agustincalisaya01@gmail.com
