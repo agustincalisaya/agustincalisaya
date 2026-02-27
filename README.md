@@ -14,10 +14,10 @@ Focused on building clean, scalable applications and constantly improving my ski
 - Next.js • TypeScript
 
 **Database**
-- SQL • PostgreSQL • Docker
+- SQL • PostgreSQL • Docker • Prisma ORM
 
 **Tools**
-- Git • GitHub • Postman
+- Git • GitHub • Postman • TablePlus
 
 ---
 
