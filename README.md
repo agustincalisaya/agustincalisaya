@@ -34,4 +34,3 @@ Focused on building clean, scalable applications and constantly improving my ski
 
 ### Contact
 - 💼 LinkedIn: [Daniel Calisaya](www.linkedin.com/in/daniel-calisaya)
-- ✉️ Email: agustincalisaya01@gmail.com
