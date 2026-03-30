@@ -14,21 +14,15 @@ Focused on building clean, scalable applications and constantly improving my ski
 - Next.js • TypeScript
 
 **Database**
-- SQL • PostgreSQL • Docker • Prisma ORM
+- SQL • PostgreSQL • Prisma ORM
 
 **Tools**
-- Git • GitHub • Postman • TablePlus
+- Git • GitHub • Docker • Postman • TablePlus
 
 ---
 
 ### 💼 Experience
 - **LSCL Software** — Software Developer
-
----
-
-### Currently Learning
-- Backend best practices with **Spring Boot**
-- Full Stack workflows with **Next.js + TypeScript**
 
 ---
 
